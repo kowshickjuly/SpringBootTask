@@ -1,0 +1,5 @@
+                                                           1.Database Connection
+CODE:
+spring.datasource.url=jdbc:Postgres://localhost:3306/DB
+spring.datasource.username=root
+spring.datasource.password=root1234
